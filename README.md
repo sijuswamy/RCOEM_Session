@@ -1,2 +1,2 @@
 # RCOEM_Session
-Notebooks related to the session
+This repository contains the `ipython` notebooks related to the topics discussed in the session. 
